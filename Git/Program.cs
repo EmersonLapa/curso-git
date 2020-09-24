@@ -6,9 +6,9 @@ namespace Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("bom dia !!");
+            Console.WriteLine("Hello World!");           
             Console.WriteLine("Como você esta hoje ?");
+            Console.WriteLine("Tenha um bom dia !!");
             Console.ReadLine();
         }
     }
